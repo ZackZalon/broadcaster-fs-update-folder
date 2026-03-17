@@ -4,8 +4,8 @@
   "pub_date": "2026-03-17T19:47:53Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.3/Broadcaster%20FS.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4MkpEZEpsRVFmYnJ6ZDBNRlhvQTR0OTA2U20yY0VRem9uZGY4dDlyNGhBZXJkRG1JRlpwUDhtNnJneXJ6blZEU2hKU3gyUGdDU042OENjMjQ0S25hYWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzc2ODU3CWZpbGU6QnJvYWRjYXN0ZXIgRlMuYXBwLnRhci5negpwOURFUnNiZkErRGdINjRQdGMyVFVhZ0NZaEI0SEZlemlESnRRK1FrSWhSYmhQa29lK25SRkJ1eHoxY2ZHMVhKM0M5ckI0YWNJSWphOUsrV0Q0RU1BQT09Cg=="
+      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.3/Broadcaster-FS-0.1.3.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4MkZxVkV2Z3poL3BxSWxOM2RlY1pURk5tUXVNUVI5cVIzYmpUMU44WFZmVFpDTWh6NkMvb2ROOUNDMzR0UXh1YXVCUEoycmFyVk5kK0UvQm5RTFFZS2dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzc5MjIyCWZpbGU6QnJvYWRjYXN0ZXIgRlMuYXBwLnRhci5negpSWlVrMVVDT010blY3TVZ2RlZoeERPcmc4SUwwdEt1QVdMd1RMU3d2d2dtSHBjMThyTThRM2FGeVAyZHFFU0UxZ1ViTjhhTzFlb0paS0l6Wnd3T0JCUT09Cg=="
     }
   }
 }
