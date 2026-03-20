@@ -1,11 +1,11 @@
 {
-  "version": "0.1.31",
-  "notes": "Broadcaster FS 0.1.31 improves AirPlay transport behavior, voice tracking flow, feedback delivery, and startup reliability.",
-  "pub_date": "2026-03-20T04:43:41Z",
+  "version": "0.1.32",
+  "notes": "Broadcaster FS 0.1.32 improves VoiceTrack Fusion, AirPlay playback stability, and updater delivery.",
+  "pub_date": "2026-03-20T04:57:08Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.31/Broadcaster-FS-0.1.31.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4Mkd4YWZGdFExUDZjcGhlN2NuZjFMYjZWUHVOUXE2ODBwTW8vSTFPNkUzTWtCZlRkbCtCMC9QWEtNVWRJVnNnYkcvS3ZRUDMva2xxR0dKbnVCa1hJTmc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTgxODAxCWZpbGU6QnJvYWRjYXN0ZXItRlMtMC4xLjMxLmFwcC50YXIuZ3oKaEM3YUNRZU1EZE5tNit4eldVbHFESWdJalN4Z3dnRnV4OUJndTJBVitNUTFkdXRscXJMblk5bm10MXM5azNtL3p4VjMzWWtGZmViSUhTUHJSYU00QXc9PQo="
+      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.32/Broadcaster-FS-0.1.32.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4MkFQU1M4QWtxSWtlejlBRHBkU1NNMzMySEp5U2plRW01KzNiRGdNR2V3T1hWcDI4SjNNREVyUytBV0dhak1xd2FRZTAxVFh3dG9KaDM0VXVaVThmTGc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTgyNDY4CWZpbGU6QnJvYWRjYXN0ZXItRlMtMC4xLjMyLmFwcC50YXIuZ3oKMFF0TXE3WHFxQ0pVTFlHeGxyTE41WTIvU0w0U3hQSXVsMTEwRWUwQzV1aHFRYzZIUVNEZ2pNVGlOcHBCMHpiSWZBbFR3UjA3UERFditRYnBSUkZ2QVE9PQo="
     }
   }
 }
