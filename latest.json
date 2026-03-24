@@ -1,11 +1,11 @@
 {
-  "version": "0.1.35",
-  "notes": "Broadcaster FS 0.1.35 includes the latest Admin updates, AirPlay transport fixes, and the current notarized desktop build.",
-  "pub_date": "2026-03-24T03:04:18Z",
+  "version": "0.1.36",
+  "notes": "Broadcaster FS 0.1.36 includes the VoiceTrack shell workflow, AirPlay fixes, and the bug-report delivery fallback for clean tester installs.",
+  "pub_date": "2026-03-24T15:27:16Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.35/Broadcaster.FS.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4Mk9tUHlQUW4yZ2ZlVUFtWmdadG84TFZjZVRBTiswU1R3NUovZE1LSktyZmkxZzVmVUh1b21GNk1JTmgzMlBqcWtvbFFtYmRDNWQyMFpuRGtCRS9YTVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzIxMjIzCWZpbGU6QnJvYWRjYXN0ZXIgRlMuYXBwLnRhci5negpnMnROc2gvdzhOZ0taNnhXSUk0OHowQjJycGd1SFM0SjNGeVR3TzAvNnJSMFAzdkJ6YmkxNU1uWENNT1hDNXp5WGJNQXVpbHNnUTVhV2xlUmFnNFVBdz09Cg=="
+      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.36/Broadcaster.FS.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4Mkg2WFZoSzhjZlprcGQ3VzRFV3VIMW54b29DSi9BQW9XeEM0MzhZc0M0a1gyUFBVblR2czh6Q3BLa2o3dXU4RDdNZ29pZFE4M1ZJQkhBQ0ZxWG1HWFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzY1ODc0CWZpbGU6QnJvYWRjYXN0ZXIgRlMuYXBwLnRhci5negpCeVRrK3IvNUFXVlJEeHFlSUFuRmVZSkJMV0NCVElQZUhsTXhZd3JENjlvdStRaXpiWHZxc01kVWRBMmQ0dzJCUWZpYy9BYlZqTU53dWNkUEY3ZHREUT09Cg=="
     }
   }
 }
