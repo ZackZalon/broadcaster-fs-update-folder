@@ -1,11 +1,11 @@
 {
-  "version": "0.1.34",
-  "notes": "Broadcaster FS 0.1.34 improves AirPlay stability, transport responsiveness, album-art fallbacks, and desktop release packaging.",
-  "pub_date": "2026-03-23T02:20:34Z",
+  "version": "0.1.35",
+  "notes": "Broadcaster FS 0.1.35 includes the latest Admin updates, AirPlay transport fixes, and the current notarized desktop build.",
+  "pub_date": "2026-03-24T03:04:18Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.34/Broadcaster-FS-0.1.34.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4MkJPcGZCeHFHRnVCVXJjUUVyWUhDNE1JRi9lLzNHUnJ1bXVvUTN3L1ZiVEhJck43YXgwbWpLUDhQNU1xYlBmSHdYTzBRc1o3VW1Sc2FBMkl6ZCtIaXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjMyMjI0CWZpbGU6QnJvYWRjYXN0ZXIgRlMuYXBwLnRhci5negpTRDh5d21ORDQ1MmViN0VvOUVoZUg5MWhIOXJobFdTUlV0L0dIZUcxTno0OGdGd1VIZkloenoxeCtwS0dJV3BRODg1WkFBZ1pKdHFhKzhEZncxM3REZz09Cg=="
+      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.35/Broadcaster-FS-0.1.35.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4Mk9tUHlQUW4yZ2ZlVUFtWmdadG84TFZjZVRBTiswU1R3NUovZE1LSktyZmkxZzVmVUh1b21GNk1JTmgzMlBqcWtvbFFtYmRDNWQyMFpuRGtCRS9YTVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MzIxMjIzCWZpbGU6QnJvYWRjYXN0ZXIgRlMuYXBwLnRhci5negpnMnROc2gvdzhOZ0taNnhXSUk0OHowQjJycGd1SFM0SjNGeVR3TzAvNnJSMFAzdkJ6YmkxNU1uWENNT1hDNXp5WGJNQXVpbHNnUTVhV2xlUmFnNFVBdz09Cg=="
     }
   }
 }
