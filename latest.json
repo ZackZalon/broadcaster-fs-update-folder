@@ -1,11 +1,11 @@
 {
-  "version": "0.1.37",
-  "notes": "Broadcaster FS 0.1.37 includes the latest AirPlay, VoiceTrack Fusion Lite, shell, admin, and bug-reporting fixes.",
-  "pub_date": "2026-03-24T18:32:30Z",
+  "version": "0.1.38",
+  "notes": "Broadcaster FS 0.1.38 includes the latest VoiceTrack Fusion Lite import, auto-ducking, production, preview, and editing fixes.",
+  "pub_date": "2026-04-03T01:09:36Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.37/Broadcaster.FS.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4MkkrMU90OUZGL2hyN0NTR1RJYmNoR1QzRDNlM05BMXFzNDBmb3hSUlcza3NBSzJLWU1qM3VyWE9ZZ3RFU09QMmNJTmRndU93QXBIM1RnOFhYYWJjMGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0Mzc2ODY3CWZpbGU6QnJvYWRjYXN0ZXIgRlMuYXBwLnRhci5negpHNys0MlFQdFpHMXFQMC9IMVhoeGRhdHN3QTZNVkpMdk02R2lLYXMzS1ZpMTRxZlF1ZlM2WjhHNTdOYmFRK09wNGsxaUkvK0w1clZ1eWRKanJUc0xCUT09Cg=="
+      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.38/Broadcaster.FS.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4MkZJT3FoVDFnUmRBdzNRVkIzVFV0THUxalliUzJTdlNCcDgwdEFKbW1qQXQ2L1lLNEpXM2l3MTBWb1hxUTVPZUNVa0s0cWJpWGNXV3ptdkUrK1pCUlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MTc4MzE0CWZpbGU6QnJvYWRjYXN0ZXIgRlMuYXBwLnRhci5negprc3lFSHkxK2F1ckFTUzJBZ2gya3l1cnAvVGU5cmoxMGU0Tks0ZlpSWHE3b1NiYkIyQXNaRFE2MTZka0hZRDlPOGl0VmRMVC92cTFkdjVwQzE4OFNBUT09Cg=="
     }
   }
 }
