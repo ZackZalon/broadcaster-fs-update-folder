@@ -1,11 +1,11 @@
 {
-  "version": "0.1.39",
-  "notes": "Broadcaster FS 0.1.39 includes the latest On Air, Voice Track, Library, Admin, and Automate updates.",
-  "pub_date": "2026-04-08T03:23:39Z",
+  "version": "0.1.40",
+  "notes": "Broadcaster FS 0.1.40 includes VoiceTrack layout fixes, broadcast log naming updates, staging timing fixes, and the latest app/runtime updates.",
+  "pub_date": "2026-04-17T01:34:15Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.39/Broadcaster.FS.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4Mk14R0hhQ1hhTU1BRnppVlphZnB1aW1UdDR4d3pKL1JnTUJGbmhWcDBZamQyWW1uTVVRVGJzdGpZNmRHQ2xqdG1DQ253UDhGRjBTb25ZMjRzVENET0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NjE4NTQ1CWZpbGU6QnJvYWRjYXN0ZXIgRlMuYXBwLnRhci5negpjUlhHOTQ2c0FRVlFxVGpMZHIweGdpMi9jaWFWTG83MG5rSVZJdnkxWmJFQVovblJjQzdubW5GN0VBTlV1TTZmUFM3VlpwenpzdXdxWTE5bmo1cDNCUT09Cg=="
+      "url": "https://github.com/ZackZalon/broadcaster-fs-update-folder/releases/download/v0.1.40/Broadcaster.FS.app.tar.gz",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRa1d6dWU5L3l4MkY2UEpZUjgvUjlwU2h3Y0oyOTAyYkg3N2s2ZlZmaUlLeWpuMEJtRVBCSVQ1YXpjMTg5SWt4Q1VkbzNMTlhqV2hKdWJCNjYvMlpWYTRPVlZmUnF0Z0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Mzg5NTAzCWZpbGU6QnJvYWRjYXN0ZXIgRlMuYXBwLnRhci5negp0bzFXaWVRUEFrQlVPUEhQVDA0UTl2djEySk00TTBpam9IUWJobDdhT2JUdTJiRnpTZnUrSkNCQWVTcVFnRURJdDRDU0N5RkNNRzBiYUxRNzlzQXdEdz09Cg=="
     }
   }
 }
